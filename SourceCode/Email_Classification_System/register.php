@@ -172,10 +172,10 @@ require_once("header.php");
                             <td align="center"><input type="text" name="username" required/></td></tr><br>
 
                         <tr><td>	<label>Password :</label><td>
-                            <td align="center">	<input type="text" name="password" required/></td></tr><br>
+                            <td align="center">	<input type="password" name="password" required/></td></tr><br>
 
                         <tr><td>		<label>Re-enter Password:</label></td>
-                            <td align="center">	<input type="text" name="passwordc" required/></td></tr><br>
+                            <td align="center">	<input type="password" name="passwordc" required/></td></tr><br>
 
                         <tr><td><label>LegalName:</label></td>
                             <td align="left"><input type="text" name="legal_name" /></td></tr><br>
